@@ -7,7 +7,7 @@ After that, run command
 
     python3 gui.py
 
-in terminal and will see a an interface like this:
+in terminal and a window will pop up:
 
 ![default](mdImages/default.png)
 
